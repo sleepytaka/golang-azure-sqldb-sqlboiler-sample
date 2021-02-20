@@ -4,6 +4,10 @@
 *.dll
 *.so
 *.dylib
+.idea/
+common/models/*
+di/wire_gen.go
+go.sum
 
 # Test binary, built with `go test -c`
 *.test

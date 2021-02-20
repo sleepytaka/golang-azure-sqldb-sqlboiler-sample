@@ -1,0 +1,10 @@
+output   = "./common/models"
+
+[mssql]
+dbname  = "****"
+host    = "****"
+port    = 1433
+user    = "****"
+pass    = "****"
+sslmode = "disable"
+schema  = "SalesLT"

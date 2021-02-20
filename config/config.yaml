@@ -1,0 +1,8 @@
+database:
+    dbname: "****"
+    host: "****"
+    port: 1433
+    user: "****"
+    password: "****"
+    sslMode: "****"
+    schema: "****"
